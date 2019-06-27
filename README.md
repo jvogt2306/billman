@@ -1,4 +1,5 @@
 # BillMan
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/xotahal/react-native-material-ui/master/LICENSE)
 
 Billman (Bill Manager) makes it easy for the user to manage invoices. With Billman you can capture, save, display and delete invoices. Furthermore, the app offers a favorite function to find documents faster. In addition, the user receives a listing of his expenses grouped by day, month and year.
 
