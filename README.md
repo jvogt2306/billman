@@ -22,47 +22,48 @@ The following guidelines & demands had to be fullfilled to pass the course 'Mobi
 <img
 		width="150"
 		alt="Capture 3"
-		src="preview/capture3.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture3.png">
+		
 <img
 		width="150"
 		alt="Capture 4"
-		src="preview/capture4.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture4.png">
 <img
 		width="150"
 		alt="Capture 5"
-		src="preview/capture5.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture5.png">
 <img
 		width="150"
 		alt="Capture 6"
-		src="preview/capture6.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture6.png">
 <img
 		width="150"
 		alt="Capture 8"
-		src="preview/capture8.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture8.png">
 <img
 		width="150"
 		alt="Capture 10"
-		src="preview/capture10.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture10.png">
 <img
 		width="150"
 		alt="Capture 11"
-		src="preview/capture11.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture11.png">
 <img
 		width="150"
 		alt="Capture 12"
-		src="preview/capture12.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture12.png">
 <img
 		width="150"
 		alt="Capture 13"
-		src="preview/capture13.png">		
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture13.png">		
 <img
 		width="150"
 		alt="Capture 14"
-		src="preview/capture14.png">		
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture14.png">		
 <img
 		width="150"
 		alt="Capture 15"
-		src="preview/capture15.png">		
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture15.png">		
 
 ## Getting Started
 
