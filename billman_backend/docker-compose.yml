@@ -1,7 +1,7 @@
 version: "2.2"
 services:
   app:
-    container_name: jvapp
+    container_name: billman
     restart: always
     build: .
     ports: 
@@ -9,10 +9,10 @@ services:
     links:
       - mongo
   mongo:
-    container_name: mongojv
+    container_name: billmanmongo
     image: mongo
     volumes: 
-      - jvmongodata:/data/db
+      - billmanmongodata:/data/db
     ports:
       - "5021:27017"
 volumes:
