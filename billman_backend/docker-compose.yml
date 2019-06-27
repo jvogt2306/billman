@@ -16,5 +16,5 @@ services:
     ports:
       - "5021:27017"
 volumes:
-    jvmongodata:
+    billmanmongodata:
       external: true
