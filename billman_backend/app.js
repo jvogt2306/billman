@@ -9,8 +9,8 @@ const crypto = require('crypto');
 const path = require('path');
 const GridFsStorage = require('multer-gridfs-storage');
 
-//const uriMongo = 'mongodb://informatik.hs-ruhrwest.de:5021/billman';
-const uriMongo = 'mongodb://localhost:5021/billman';
+const uriMongo = 'mongodb://informatik.hs-ruhrwest.de:5021/billman';
+//const uriMongo = 'mongodb://localhost:5021/billman';
 mongoose.connect(uriMongo, { useNewUrlParser: true });
 mongoose.Promise = global.Promise;
 gridfs.mongo = mongoose.mongo;
