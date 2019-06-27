@@ -1,0 +1,20 @@
+version: "2.2"
+services:
+  app:
+    container_name: jvapp
+    restart: always
+    build: .
+    ports: 
+      - 5015:5015
+    links:
+      - mongo
+  mongo:
+    container_name: mongojv
+    image: mongo
+    volumes: 
+      - jvmongodata:/data/db
+    ports:
+      - "5021:27017"
+volumes:
+    jvmongodata:
+      external: true

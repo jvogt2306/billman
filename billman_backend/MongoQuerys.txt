@@ -1,0 +1,49 @@
+//------------------------------------------------------
+// COUNT
+//------------------------------------------------------
+	db.document.count();
+	db.document.count({favorite:true});
+	db.document.find({sum: {$lte:150}}).count();
+
+//------------------------------------------------------
+// GROUP
+//------------------------------------------------------
+	//1 - Count Document Categories 
+//------------------------------------------------------
+	db.document.group(
+		{
+			key: { category : 1},
+			reduce: function ( curr, result ) { result.count++ },
+			initial: {count: 0 }
+		}
+	 )
+
+//------------------------------------------------------	 
+// AGGREGATION
+//------------------------------------------------------
+//	SUMME aller "sum" nach Category 
+//------------------------------------------------------
+	db.document.aggregate(
+		{	$match : {"$"
+			$group:{
+				_id:  "$category" ,
+				sum_category: { $sum:"$sum"}
+			}
+		}
+	);
+//------------------------------------------------------
+	SUMME aller Dokumente am heutigen Tag
+//------------------------------------------------------	
+		db.document.aggregate(
+	[	{$match :	{"procurement_date":{
+ 	     	$gte:   new Date(new Date().setHours(00,00,00)) ,     
+        	$lt :  	new Date(new Date().setHours(23,59,59)) 
+ 	    	}
+ 	}},
+		{$group	:	{	_id:  "$category" ,
+						sum_category: { $sum:"$sum"}
+					}
+ 		}
+ 	]
+ );
+//------------------------------------------------------
