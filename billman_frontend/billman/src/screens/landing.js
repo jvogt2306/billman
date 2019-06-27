@@ -4,13 +4,10 @@ import { ThemeProvider, Button } from 'react-native-elements';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import IconAwesome5 from 'react-native-vector-icons/FontAwesome5';
 import IconMaterialComm from 'react-native-vector-icons/MaterialCommunityIcons';
-import global from '../GlobalFunctions'
-
 
 export default class LandingPage extends Component {
 
     static navigationOptions = { header: null };
-
     state = {
         categorys: [],
         isLoading: true

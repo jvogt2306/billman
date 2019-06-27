@@ -61,9 +61,6 @@ export default class AddBill extends Component {
 
     saveDocument = async () => {
 
-        console.log(JSON.stringify(this.state))
-
-
         if (this.state.category == null) {
             alert("Kategorie ist erforderlich");
         } else if (this.state.sum == null) {

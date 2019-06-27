@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
-import { FlatList, ActivityIndicator, Text, View, StyleSheet, Button } from 'react-native';
-import global from '../GlobalFunctions'
+import { Text, View, StyleSheet } from 'react-native';
 export default class Profile extends Component {
-
 
     static navigationOptions = ({ navigation }) => {
         return {
