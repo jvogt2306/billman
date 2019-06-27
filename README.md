@@ -15,17 +15,16 @@ The following guidelines & demands had to be fullfilled to pass the course 'Mobi
 
 ## Screenshots
 
-<img src="preview/capture2.PNG" width="200" height="300" />
-<img src="preview/capture3.PNG" width="200" height="300" />
-<img src="preview/capture4.PNG" width="200" height="300" />
-<img src="preview/capture5.PNG" width="200" height="300" />
-<img src="preview/capture6.PNG" width="200" height="300" />
-<img src="preview/capture8.PNG" width="200" height="300" />
-<img src="preview/capture10.PNG" width="200" height="300" />
-<img src="preview/capture11.PNG" width="200" height="300" />
-<img src="preview/capture12.PNG" width="200" height="300" />
-<img src="preview/capture14.PNG" width="200" height="300" />
-<img src="preview/capture15.PNG" width="200" height="300" />
+<img src="preview/capture2.PNG" width="150" height="225" />
+<img src="preview/capture3.PNG" width="150" height="225" />
+<img src="preview/capture4.PNG" width="150" height="225" />
+<img src="preview/capture5.PNG" width="150" height="225" />
+<img src="preview/capture6.PNG" width="150" height="225" />
+<img src="preview/capture10.PNG" width="150" height="225" />
+<img src="preview/capture11.PNG" width="150" height="225" />
+<img src="preview/capture12.PNG" width="150" height="225" />
+<img src="preview/capture14.PNG" width="150" height="225" />
+<img src="preview/capture15.PNG" width="150" height="225" />
 
 ## Getting Started
 
