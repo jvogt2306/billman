@@ -18,40 +18,40 @@ The following guidelines & demands had to be fullfilled to pass the course 'Mobi
 <img
 		width="150"
 		alt="Capture 2"
-		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture2.PNG">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture2.PNG"/>
 <img
 		width="150"
 		alt="Capture 3"
-		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture3.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture3.png"/>
 		
 <img
 		width="150"
 		alt="Capture 4"
-		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture4.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture4.png"/>
 <img
 		width="150"
 		alt="Capture 5"
-		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture5.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture5.png"/>
 <img
 		width="150"
 		alt="Capture 6"
-		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture6.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture6.png"/>
 <img
 		width="150"
 		alt="Capture 8"
-		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture8.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture8.png"/>
 <img
 		width="150"
 		alt="Capture 10"
-		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture10.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture10.png"/>
 <img
 		width="150"
 		alt="Capture 11"
-		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture11.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture11.png"/>
 <img
 		width="150"
 		alt="Capture 12"
-		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture12.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture12.png"/>
 <img
 		width="150"
 		alt="Capture 13"
