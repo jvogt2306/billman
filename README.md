@@ -15,23 +15,16 @@ The following guidelines & demands had to be fullfilled to pass the course 'Mobi
 
 ## Screenshots
 
-<img
-		width="150"
-		alt="Capture 2"
-		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture2.PNG"/>
-<img
-		width="150"
-		alt="Capture 3"
-		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture3.png"/>
-		
+<img width="150" alt="Capture 2" src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture2.PNG">
+<img width="150" alt="Capture 3" src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture3.png">
 <img
 		width="150"
 		alt="Capture 4"
-		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture4.png"/>
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture4.png">
 <img
 		width="150"
 		alt="Capture 5"
-		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture5.png"/>
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture5.png">
 <img
 		width="150"
 		alt="Capture 6"
