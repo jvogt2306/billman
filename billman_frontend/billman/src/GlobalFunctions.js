@@ -4,7 +4,7 @@
 
 const global = {
     getAPI: function () {
-        return { url: "http://192.168.2.124:5015" }
+        return { url: "http://informatik.hs-ruhrwest.de:5015" }
     }
 }
 
