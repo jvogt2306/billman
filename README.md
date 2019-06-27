@@ -1,6 +1,6 @@
 # BillMan
 
-Billman (Bill Manager) makes it easy for the user to manage invoices. With Billman you can capture, save, display and delete invoices. Furthermore, the app offers a favorite function to find Documents faster. In addition, the user receives a listing of his expenses grouped by day, month and year.
+Billman (Bill Manager) makes it easy for the user to manage invoices. With Billman you can capture, save, display and delete invoices. Furthermore, the app offers a favorite function to find documents faster. In addition, the user receives a listing of his expenses grouped by day, month and year.
 
 The project has been realised as part of the course 'Mobile Computing' at Hochschule Ruhr West - University of Applied Sciences by lecturer Michael Schellenbach. 
 
@@ -59,11 +59,11 @@ The Deployment of the backend can be done in two ways.
 
 #### With Docker-Compose
 
-Create a Volume for the MongoDB Data
+Create a volume for the MongoDB Data
 ```
 docker volume create --name=billmanmongodata
 ```
-Build an Run the Container with Docker-Compose
+Build an run the container with docker-compose
 ```
 docker-compose up
 ```
@@ -77,7 +77,7 @@ Start a MongoDB with external ports and volume mapping
 ```
 docker run -d --name billman_app -p 5021:27017 -v billmanmongodata:/data/db mongo
 ```
-Start a Container which use the created Image
+Start a Container which use the created image
 ```
 docker run -p 5015:5015 billman
 ```
@@ -92,19 +92,19 @@ Installation the required dependencies
 ```
 npm install
 ```
-Start the App and use Expo to use it
+Start the app
 ```
 npm start
 ```
 
-Now you can scan with your Device the QR-Code. The app is provided via expo.
+Now you can scan with your device the QR-code. The app is provided via expo.
 
 ## Built With
 
 * [React Native](https://facebook.github.io/react-native/docs/getting-started) - The core framework used
 * [React Navigation](https://reactnavigation.org/docs/en/getting-started.html) - Navigation Component
-* [Expo]() - A free and open source toolchain built around React Native
-* [React-Native-Elements]() - UI-Kit for Design React-Native Apps 
+* [Expo](https://www.npmjs.com/package/expo) - A free and open source toolchain built around React Native
+* [React-Native-Elements](https://www.npmjs.com/package/react-native-elements) - UI-Kit for Design React-Native Apps 
 * [react-native-camera](https://github.com/react-native-community/react-native-camera) - A Camera component for React Native
 * [Node](https://www.google.com/search?client=firefox-b-d&channel=crow&q=node) - JavaScript runtime built
 * [Express](https://www.npmjs.com/package/express) - Web application framework for Node.js
