@@ -1,7 +1,8 @@
 # BillMan
 
-The project has been realised as part of the course 'Mobile Computing' at Hochschule Ruhr West - University of Applied Sciences
-by lecturer Michael Schellenbach. 
+BillMan is an Application which help Users to manage your receipt and save the documents in the cloud. Furthemore the app give a summery about the costs. 
+
+The project has been realised as part of the course 'Mobile Computing' at Hochschule Ruhr West - University of Applied Sciences by lecturer Michael Schellenbach. 
 
 ### Module Requirements
 
@@ -15,63 +16,64 @@ The following guidelines & demands had to be fullfilled to pass the course 'Mobi
 ## Screenshots
 
 <img
-		width="210"
+		width="150"
 		alt="Capture 2"
-		src="preview/capture2.png">
+		src="https://gitlab.hs-ruhrwest.de/ynjavogt/billman/raw/master/preview/capture2.PNG">
 <img
-		width="210"
+		width="150"
 		alt="Capture 3"
 		src="preview/capture3.png">
 <img
-		width="210"
+		width="150"
 		alt="Capture 4"
 		src="preview/capture4.png">
 <img
-		width="210"
+		width="150"
 		alt="Capture 5"
 		src="preview/capture5.png">
 <img
-		width="210"
+		width="150"
 		alt="Capture 6"
 		src="preview/capture6.png">
 <img
-		width="210"
+		width="150"
 		alt="Capture 8"
 		src="preview/capture8.png">
 <img
-		width="210"
+		width="150"
 		alt="Capture 10"
 		src="preview/capture10.png">
 <img
-		width="210"
+		width="150"
 		alt="Capture 11"
 		src="preview/capture11.png">
 <img
-		width="210"
+		width="150"
 		alt="Capture 12"
 		src="preview/capture12.png">
 <img
-		width="210"
+		width="150"
 		alt="Capture 13"
 		src="preview/capture13.png">		
 <img
-		width="210"
+		width="150"
 		alt="Capture 14"
 		src="preview/capture14.png">		
 <img
-		width="210"
+		width="150"
 		alt="Capture 15"
 		src="preview/capture15.png">		
 
 ## Getting Started
 
-Make sure you have a package manager like [Yarn](https://yarnpkg.com/lang/en/) or [npm](https://www.npmjs.com) installed.
+Make sure you have a package manager like [Yarn](https://yarnpkg.com/lang/en/) or [npm](https://www.npmjs.com) installed. You need also a running [docker](https://www.docker.com/).  
 
 ### Prerequisites
 
 
-### Installing
 
+
+### Installing
 
 ### Setting up xx
 
